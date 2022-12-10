@@ -1,0 +1,38 @@
+{
+	"contact": [{
+			"title": "Location",
+			"subtitle": "El churqui 50, Jujuy, Argentina",
+			"url": "",
+			"class": "address",
+			"icon": "bi bi-geo-alt"
+		},
+		{
+			"title": "Email",
+			"subtitle": "sebcostilla@gmail.com",
+			"url": "email",
+			"class": "address",
+			"icon": "bi bi-envelope"
+		},
+		{
+			"title": "whatsapp",
+			"subtitle": "Whatsapp Me",
+			"url": "https://wa.me/5493885702533",
+			"class": "phone",
+			"icon": "bi bi-whatsapp"
+		},
+		{
+			"title": "LinkedIn",
+			"subtitle": "My LinkedIn",
+			"url": "https://www.linkedin.com/in/sebasti%C3%A1n-costilla-15b9b4167/",
+			"class": "linkedin",
+			"icon": "bi bi-linkedin"
+		},
+		{
+			"title": "Github",
+			"subtitle": "My git",
+			"url": "https://github.com/scostilla",
+			"class": "linkedin",
+			"icon": "bi bi-github"
+		}
+	]
+}
